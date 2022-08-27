@@ -21,6 +21,6 @@ public class OutputCombinations {
       b = scnr.next().charAt(0);
       c = scnr.next().charAt(0);
 
-      System.out.print (""+a+b+c+" "+a+c+b+" "+b+a+c+" "+b+c+a+" "+c+a+b+" "+c+b+a+"");
+      System.out.print (" " + a+b+c + " " + a+c+b + " " + b+a+c + " " + b+c+a + " " + c+a+b + " " + c+b+a + " ");
    }
 }
